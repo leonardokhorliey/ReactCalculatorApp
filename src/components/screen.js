@@ -1,7 +1,4 @@
 const Screen = ( {toptextInScreen, bottomtextInScreen} ) => {
-
-
-
     
     return (
         <div className = "screen">
